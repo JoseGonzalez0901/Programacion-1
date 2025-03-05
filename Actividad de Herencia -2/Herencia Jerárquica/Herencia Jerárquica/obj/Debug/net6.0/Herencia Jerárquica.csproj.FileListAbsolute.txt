@@ -1,0 +1,15 @@
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\bin\Debug\net6.0\Herencia Jerárquica.exe
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\bin\Debug\net6.0\Herencia Jerárquica.deps.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\bin\Debug\net6.0\Herencia Jerárquica.runtimeconfig.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\bin\Debug\net6.0\Herencia Jerárquica.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\bin\Debug\net6.0\Herencia Jerárquica.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.AssemblyInfoInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.AssemblyInfo.cs
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.csproj.CoreCompileInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.sourcelink.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\refint\Herencia Jerárquica.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\Herencia Jerárquica.genruntimeconfig.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Jerárquica\Herencia Jerárquica\obj\Debug\net6.0\ref\Herencia Jerárquica.dll

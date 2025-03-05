@@ -1,0 +1,15 @@
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\bin\Debug\net6.0\Herencia Multinivel.exe
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\bin\Debug\net6.0\Herencia Multinivel.deps.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\bin\Debug\net6.0\Herencia Multinivel.runtimeconfig.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\bin\Debug\net6.0\Herencia Multinivel.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\bin\Debug\net6.0\Herencia Multinivel.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.AssemblyInfoInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.AssemblyInfo.cs
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.csproj.CoreCompileInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.sourcelink.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\refint\Herencia Multinivel.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\Herencia Multinivel.genruntimeconfig.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Multinivel\Herencia Multinivel\obj\Debug\net6.0\ref\Herencia Multinivel.dll

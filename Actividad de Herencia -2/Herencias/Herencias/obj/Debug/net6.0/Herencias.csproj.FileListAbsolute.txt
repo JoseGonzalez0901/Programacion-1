@@ -1,0 +1,15 @@
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\bin\Debug\net6.0\Herencias.exe
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\bin\Debug\net6.0\Herencias.deps.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\bin\Debug\net6.0\Herencias.runtimeconfig.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\bin\Debug\net6.0\Herencias.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\bin\Debug\net6.0\Herencias.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.AssemblyInfoInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.AssemblyInfo.cs
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.csproj.CoreCompileInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.sourcelink.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\refint\Herencias.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\Herencias.genruntimeconfig.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencias\Herencias\obj\Debug\net6.0\ref\Herencias.dll

@@ -1,0 +1,15 @@
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\bin\Debug\net6.0\Herencia Híbrida.exe
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\bin\Debug\net6.0\Herencia Híbrida.deps.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\bin\Debug\net6.0\Herencia Híbrida.runtimeconfig.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\bin\Debug\net6.0\Herencia Híbrida.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\bin\Debug\net6.0\Herencia Híbrida.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.AssemblyInfoInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.AssemblyInfo.cs
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.csproj.CoreCompileInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.sourcelink.json
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\refint\Herencia Híbrida.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.pdb
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\Herencia Híbrida.genruntimeconfig.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Actividad de Herencia -2\Herencia Híbrida\Herencia Híbrida\obj\Debug\net6.0\ref\Herencia Híbrida.dll

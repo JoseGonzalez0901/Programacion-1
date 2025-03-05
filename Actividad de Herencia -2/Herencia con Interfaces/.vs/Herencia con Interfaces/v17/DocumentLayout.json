@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia con interfaces\\herencia con interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|solutionrelative:herencia con interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia con interfaces\\herencia con interfaces\\humanoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|solutionrelative:herencia con interfaces\\humanoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia con interfaces\\herencia con interfaces\\irobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|solutionrelative:herencia con interfaces\\irobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia con interfaces\\herencia con interfaces\\ihumano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A9B81-0032-4F12-B77F-FD456843DE0A}|Herencia con Interfaces\\Herencia con Interfaces.csproj|solutionrelative:herencia con interfaces\\ihumano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humanoide.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\Humanoide.cs",
+              "RelativeDocumentMoniker": "Herencia con Interfaces\\Humanoide.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\Humanoide.cs",
+              "RelativeToolTip": "Herencia con Interfaces\\Humanoide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:23:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRobot.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\IRobot.cs",
+              "RelativeDocumentMoniker": "Herencia con Interfaces\\IRobot.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\IRobot.cs",
+              "RelativeToolTip": "Herencia con Interfaces\\IRobot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:22:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHumano.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\IHumano.cs",
+              "RelativeDocumentMoniker": "Herencia con Interfaces\\IHumano.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\IHumano.cs",
+              "RelativeToolTip": "Herencia con Interfaces\\IHumano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:22:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia con Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia con Interfaces\\Herencia con Interfaces\\Program.cs",
+              "RelativeToolTip": "Herencia con Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:21:35.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

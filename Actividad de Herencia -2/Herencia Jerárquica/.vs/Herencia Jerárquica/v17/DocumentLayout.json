@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia jer\u00E1rquica\\herencia jer\u00E1rquica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|solutionrelative:herencia jer\u00E1rquica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia jer\u00E1rquica\\herencia jer\u00E1rquica\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|solutionrelative:herencia jer\u00E1rquica\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia jer\u00E1rquica\\herencia jer\u00E1rquica\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|solutionrelative:herencia jer\u00E1rquica\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\actividad de herencia -2\\herencia jer\u00E1rquica\\herencia jer\u00E1rquica\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FC0593-0BD6-4A81-94DD-3C1CBDB4208A}|Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica.csproj|solutionrelative:herencia jer\u00E1rquica\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Herencia Jer\u00E1rquica\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\Rectangulo.cs",
+              "RelativeToolTip": "Herencia Jer\u00E1rquica\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:51:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\Circulo.cs",
+              "RelativeDocumentMoniker": "Herencia Jer\u00E1rquica\\Circulo.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\Circulo.cs",
+              "RelativeToolTip": "Herencia Jer\u00E1rquica\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:50:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "Herencia Jer\u00E1rquica\\FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\FiguraGeometrica.cs",
+              "RelativeToolTip": "Herencia Jer\u00E1rquica\\FiguraGeometrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:49:47.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia Jer\u00E1rquica\\Program.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Actividad de Herencia -2\\Herencia Jer\u00E1rquica\\Herencia Jer\u00E1rquica\\Program.cs",
+              "RelativeToolTip": "Herencia Jer\u00E1rquica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:43:06.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
