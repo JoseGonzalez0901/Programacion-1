@@ -1,0 +1,16 @@
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central_telefonica.Form1.resources
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.csproj.GenerateResource.cache
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.AssemblyInfoInputs.cache
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.AssemblyInfo.cs
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\bin\Debug\net8.0-windows\Central telefonica.exe
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\bin\Debug\net8.0-windows\Central telefonica.deps.json
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\bin\Debug\net8.0-windows\Central telefonica.runtimeconfig.json
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\bin\Debug\net8.0-windows\Central telefonica.dll
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\bin\Debug\net8.0-windows\Central telefonica.pdb
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.dll
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\refint\Central telefonica.dll
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.pdb
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.genruntimeconfig.cache
+C:\Users\Pc10\source\repos\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\ref\Central telefonica.dll
