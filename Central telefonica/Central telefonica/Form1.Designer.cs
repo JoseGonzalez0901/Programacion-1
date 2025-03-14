@@ -28,33 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Num_destino_txbox = new TextBox();
+            components = new System.ComponentModel.Container();
+            Num_origin = new TextBox();
             Duracion_label = new Label();
             Start = new Button();
             Stop = new Button();
-            Registro_de_llamada = new ListView();
             label1 = new Label();
+            Num_dest = new TextBox();
+            label2 = new Label();
+            label3 = new Label();
+            Call_duration = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
-            // Num_destino_txbox
+            // Num_origin
             // 
-            Num_destino_txbox.Location = new Point(12, 12);
-            Num_destino_txbox.Name = "Num_destino_txbox";
-            Num_destino_txbox.Size = new Size(223, 23);
-            Num_destino_txbox.TabIndex = 0;
+            Num_origin.Location = new Point(12, 12);
+            Num_origin.Name = "Num_origin";
+            Num_origin.Size = new Size(223, 23);
+            Num_origin.TabIndex = 0;
             // 
             // Duracion_label
             // 
             Duracion_label.AutoSize = true;
-            Duracion_label.Location = new Point(252, 20);
+            Duracion_label.Location = new Point(128, 131);
             Duracion_label.Name = "Duracion_label";
-            Duracion_label.Size = new Size(38, 15);
+            Duracion_label.Size = new Size(13, 15);
             Duracion_label.TabIndex = 1;
-            Duracion_label.Text = "label1";
+            Duracion_label.Text = "0";
             // 
             // Start
             // 
-            Start.Location = new Point(12, 52);
+            Start.Location = new Point(12, 86);
             Start.Name = "Start";
             Start.Size = new Size(75, 23);
             Start.TabIndex = 2;
@@ -64,7 +68,7 @@
             // 
             // Stop
             // 
-            Stop.Location = new Point(107, 52);
+            Stop.Location = new Point(107, 86);
             Stop.Name = "Stop";
             Stop.Size = new Size(75, 23);
             Stop.TabIndex = 3;
@@ -72,35 +76,58 @@
             Stop.UseVisualStyleBackColor = true;
             Stop.Click += Stop_Click;
             // 
-            // Registro_de_llamada
-            // 
-            Registro_de_llamada.Location = new Point(379, -2);
-            Registro_de_llamada.Name = "Registro_de_llamada";
-            Registro_de_llamada.Size = new Size(161, 181);
-            Registro_de_llamada.TabIndex = 4;
-            Registro_de_llamada.UseCompatibleStateImageBehavior = false;
-            // 
             // label1
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Red;
-            label1.Location = new Point(197, 56);
+            label1.Location = new Point(197, 90);
             label1.Name = "label1";
             label1.Size = new Size(64, 15);
             label1.TabIndex = 5;
             label1.Text = "                   ";
             // 
+            // Num_dest
+            // 
+            Num_dest.Location = new Point(12, 57);
+            Num_dest.Name = "Num_dest";
+            Num_dest.Size = new Size(223, 23);
+            Num_dest.TabIndex = 6;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(250, 20);
+            label2.Name = "label2";
+            label2.Size = new Size(68, 15);
+            label2.TabIndex = 7;
+            label2.Text = "Num origin";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(250, 65);
+            label3.Name = "label3";
+            label3.Size = new Size(59, 15);
+            label3.TabIndex = 8;
+            label3.Text = "Num dest";
+            // 
+            // Call_duration
+            // 
+            Call_duration.Tick += Call_duration_Tick;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(541, 180);
+            ClientSize = new Size(332, 180);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(Num_dest);
             Controls.Add(label1);
-            Controls.Add(Registro_de_llamada);
             Controls.Add(Stop);
             Controls.Add(Start);
             Controls.Add(Duracion_label);
-            Controls.Add(Num_destino_txbox);
+            Controls.Add(Num_origin);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -109,11 +136,14 @@
 
         #endregion
 
-        private TextBox Num_destino_txbox;
+        private TextBox Num_origin;
         private Label Duracion_label;
         private Button Start;
         private Button Stop;
-        private ListView Registro_de_llamada;
         private Label label1;
+        private TextBox Num_dest;
+        private Label label2;
+        private Label label3;
+        private System.Windows.Forms.Timer Call_duration;
     }
 }

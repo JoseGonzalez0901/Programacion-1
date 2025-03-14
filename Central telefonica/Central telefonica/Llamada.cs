@@ -8,38 +8,53 @@ using System.Threading.Tasks;
 namespace Central_telefonica
 {
 
-    internal class Llamada
+    internal class Llamada:ILlamada
     {
         public string[] zona_horaria = { "+1", "+54" };
-        public string num_origen { get; set; }
-        public string num_destino { get; set; }
-        public double duracion { get; set; }
 
-        public bool incall { get; set; }=false;
-        public Llamada(string input) 
-        {
-            this.num_origen=input;
-        }
-        public string analisis_zona_horaria(string num)
-        {
-            foreach (var item in zona_horaria)
-            {
-                if(num.Contains(item))
-                {
-                    return item;
-                }
+        private static Stopwatch crono = Stopwatch.StartNew();
 
-            }
-            return string.Empty;
-
-        }
-       /* public TimeSpan llamada(string num,string franja) 
-        {
-
-
-            return crono.Elapsed;
+        public  bool incall { get; set; }=false;
+        public string num_origen { get ; set; }
+        public string num_destino { get ; set ; }
+        public string duracion { get; set; }
         
-        }*/
+        public bool local=false;
+
+        public Llamada(string origen,string destino) 
+        {
+            this.num_origen=origen;
+            this.num_destino=destino;
+            crono.Stop();
+        }
+        public Llamada() { crono.Stop(); }
+        public bool isLocal(string num)
+        {
+            if(num.Contains("+1"))
+            {
+
+                return local=true;
+            }
+            return local=false;
+
+        }
+        public void startcall()
+        {
+            if (!get_status_call())
+            {
+           
+                crono.Start();
+            }
+        }
+        public void Stopcall()
+        {
+            if (get_status_call())
+            {
+                
+                crono.Restart();
+                crono.Stop();
+            }
+        }
         public bool get_status_call()
         {
             return incall;
@@ -56,8 +71,48 @@ namespace Central_telefonica
         {
             return num_destino;
         }
-        
-        public double Calcular_precio() { return 1.25f; }
+        private Thread hilo;
+        public void llamada(string Num_origen, string Num_dest, string franja)
+        {
+            
+            hilo = new Thread(() =>
+            {
+             
+                while (true)
+                {
+                    duracion = crono.Elapsed.ToString();
+                    if (!get_status_call())
+                        break;
 
+                   
+
+                    Thread.Sleep(100);
+                }
+                duracion = crono.Elapsed.ToString();
+
+            });
+
+            hilo.IsBackground = true;
+            hilo.Start();
+            
+
+        }
+        public string get_duracion_call()
+        {
+            return duracion;
+        }
+        public void llamda_stop(Llamada llamada)
+        {
+            Centralita centralita = new Centralita();
+            
+            centralita.registrarLlamada(llamada);
+            
+            //llamada.Calcular_precio(duracion,"");
+        }
+
+        public double Calcular_precio(double duracion, string franja)
+        {
+            return duracion * 1.25f;
+        }
     }
 }
