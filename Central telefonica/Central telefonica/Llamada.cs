@@ -20,7 +20,7 @@ namespace Central_telefonica
         public double duracion { get; set; }
         
         public bool local=false;
-        public double precio = 0.0f;
+        public double costo = 0.0f;
 
         public Llamada(string origen,string destino) 
         {
@@ -51,8 +51,7 @@ namespace Central_telefonica
         {
         
                 
-                crono.Restart();
-                crono.Stop();
+                
             
         }
         public bool get_status_call()
@@ -80,12 +79,14 @@ namespace Central_telefonica
              
                 while (true)
                 {
-                    duracion = crono.Elapsed.TotalSeconds;
-                    if (!get_status_call()) { break; }
+                    duracion = Math.Round (crono.Elapsed.TotalSeconds,2);
+                    if (!get_status_call()) 
+                    {
+                        crono.Restart();
+                        crono.Stop();
+                        break;
+                    }
                        
-
-                   
-
                     Thread.Sleep(100);
                 }
                

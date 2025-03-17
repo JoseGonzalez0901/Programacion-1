@@ -6,14 +6,13 @@ namespace Central_telefonica
     {
         Llamada Call_in = new Llamada();
         Llamada_provincial llamada_provincial = new Llamada_provincial();
+        Llamada_local llamada_Local=new Llamada_local();
         Centralita centralita = new Centralita();
 
         
         public Form1()
         {
             InitializeComponent();
-
-
         }
 
 
@@ -22,43 +21,43 @@ namespace Central_telefonica
         {
 
             Call_in.set_status(true);
-
+            label1.BackColor = Color.Green;
             if (Call_in.isLocal(Num_dest.Text))
             {
-                label1.BackColor = Color.Green;
-                //Llamada llamada_local=new Llamada_Local();
+                
+                llamada_Local=new Llamada_local(Num_origin.Text,Num_dest.Text);
+                llamada_Local.llamada(Num_dest.Text, Num_origin.Text,"");
+                llamada_Local.startcall();
+                llamada_Local.set_status(true);
             }
             else
             {
-                label1.BackColor = Color.Green;
                 llamada_provincial = new Llamada_provincial(Num_origin.Text, Num_dest.Text);
-                llamada_provincial.llamada(Num_dest.Text, Num_dest.Text, "");
+                llamada_provincial.llamada(Num_origin.Text, Num_dest.Text, "");
 
                 llamada_provincial.startcall();
                 llamada_provincial.set_status(true);
 
             }
-
-            // Call_in.llamada(Num_destino_txbox.Text, zona);
         }
 
         private void Stop_Click(object sender, EventArgs e)
         {
             Call_in.set_status(false);
             llamada_provincial.set_status(false);
-            llamada_provincial.Stopcall();
-
-
 
             if (Call_in.local)
             {
-
+                double precio = llamada_Local.Calcular_precio();
+                llamada_Local.costo= Math.Round( precio,2);
+                centralita.registrarLlamada(llamada_Local);
             }
             else
             {
-                Llamada newllam = new Llamada_provincial();
-                newllam = llamada_provincial;
-                centralita.registrarLlamada(newllam);
+                double precio = llamada_provincial.Calcular_precio(Num_dest.Text);
+                llamada_provincial.costo= Math.Round(precio, 2);
+                centralita.registrarLlamada(llamada_provincial);
+
 
             }
 
@@ -73,6 +72,7 @@ namespace Central_telefonica
             {
                 if (Call_in.local)
                 {
+                    Duracion_label.Text=llamada_Local.get_duracion_call().ToString();
 
                 }
                 else
@@ -87,6 +87,7 @@ namespace Central_telefonica
         private void Show_register_Click(object sender, EventArgs e)
         {
             centralita.mostrarRegistro();
+
         }
     }
 }

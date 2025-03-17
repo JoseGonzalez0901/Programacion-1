@@ -40,15 +40,19 @@
             panel2 = new Panel();
             Precio_total_label = new Label();
             label = new Label();
+            panel4 = new Panel();
             ((System.ComponentModel.ISupportInitialize)Register_view).BeginInit();
             panel1.SuspendLayout();
             panel3.SuspendLayout();
             panel2.SuspendLayout();
+            panel4.SuspendLayout();
             SuspendLayout();
             // 
             // Register_view
             // 
             Register_view.AllowUserToOrderColumns = true;
+            Register_view.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            Register_view.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             Register_view.BorderStyle = BorderStyle.None;
             Register_view.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             Register_view.Columns.AddRange(new DataGridViewColumn[] { Num_origin_column, Num_dest_column, Duration_column, Price_column });
@@ -57,7 +61,7 @@
             Register_view.Location = new Point(0, 0);
             Register_view.Name = "Register_view";
             Register_view.ReadOnly = true;
-            Register_view.Size = new Size(352, 249);
+            Register_view.Size = new Size(354, 174);
             Register_view.TabIndex = 0;
             // 
             // Num_origin_column
@@ -97,9 +101,9 @@
             panel1.Controls.Add(panel3);
             panel1.Controls.Add(panel2);
             panel1.Dock = DockStyle.Bottom;
-            panel1.Location = new Point(0, 148);
+            panel1.Location = new Point(0, 174);
             panel1.Name = "panel1";
-            panel1.Size = new Size(352, 101);
+            panel1.Size = new Size(354, 101);
             panel1.TabIndex = 1;
             // 
             // panel3
@@ -109,7 +113,7 @@
             panel3.Dock = DockStyle.Top;
             panel3.Location = new Point(0, 30);
             panel3.Name = "panel3";
-            panel3.Size = new Size(352, 23);
+            panel3.Size = new Size(354, 23);
             panel3.TabIndex = 4;
             // 
             // Total_llamada_label
@@ -141,7 +145,7 @@
             panel2.Dock = DockStyle.Top;
             panel2.Location = new Point(0, 0);
             panel2.Name = "panel2";
-            panel2.Size = new Size(352, 30);
+            panel2.Size = new Size(354, 30);
             panel2.TabIndex = 3;
             // 
             // Precio_total_label
@@ -166,13 +170,22 @@
             label.TabIndex = 2;
             label.Text = "Total price:";
             // 
+            // panel4
+            // 
+            panel4.Controls.Add(Register_view);
+            panel4.Dock = DockStyle.Fill;
+            panel4.Location = new Point(0, 0);
+            panel4.Name = "panel4";
+            panel4.Size = new Size(354, 174);
+            panel4.TabIndex = 2;
+            // 
             // Call_Register_form
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(352, 249);
+            ClientSize = new Size(354, 275);
+            Controls.Add(panel4);
             Controls.Add(panel1);
-            Controls.Add(Register_view);
             FormBorderStyle = FormBorderStyle.SizableToolWindow;
             Name = "Call_Register_form";
             StartPosition = FormStartPosition.CenterScreen;
@@ -183,6 +196,7 @@
             panel3.PerformLayout();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
+            panel4.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -201,5 +215,6 @@
         private Panel panel3;
         private Label Total_llamada_label;
         private Label label5;
+        private Panel panel4;
     }
 }

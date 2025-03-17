@@ -11,21 +11,33 @@ namespace Central_telefonica
 internal class Llamada_provincial:Llamada
     {
        
-        public double precio1 = 1.25f;
-        public double precio2 = 1.25f;
-        public double precio3 = 1.25f;
-        public string franja{ get; set; }
+        public double precio1 = 20f;
+        public double precio2 = 25f;
+        public double precio3 = 30f;
+        public string[] franja= { "+54","+36","+408" };
         public Llamada_provincial(string origen, string destino):base(origen,destino)
         {
 
         }
         public Llamada_provincial() { }
-        public virtual double Calcular_precio(double duracion, string franja)
+        public virtual double Calcular_precio(string franja)
         {
-            if (franja==this.franja)
+            foreach(var item in  this.franja)
             {
-                return precio1 * duracion;
+                if (item.Contains(this.franja[0]))
+                {
+                    return precio1 * duracion;
+                }
+                else if (item.Contains(this.franja[1])) 
+                { 
+                    return precio2 * duracion;
+                }
+                else if (item.Contains(this.franja[2]))
+                { 
+                    return precio3 * duracion;
+                }
             }
+            
             return 0;
         }
 

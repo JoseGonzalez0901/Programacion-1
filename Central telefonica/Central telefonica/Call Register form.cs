@@ -12,15 +12,16 @@ namespace Central_telefonica
 {
     public partial class Call_Register_form : Form
     {
-        public Call_Register_form()
+        public Call_Register_form(string Total_precio,string Total_calls)
         {
-           
             InitializeComponent();
-            Register_view.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            Precio_total_label.Text = Total_precio;
+            Total_llamada_label.Text=Total_calls;
+
         }
         internal void InitGrig(Llamada llamada)
         {
-            Register_view.Rows.Add(llamada.num_origen, llamada.num_destino, llamada.duracion, llamada.precio);
+            Register_view.Rows.Add(llamada.num_origen, llamada.num_destino, llamada.duracion, llamada.costo);
         }
     }
 }

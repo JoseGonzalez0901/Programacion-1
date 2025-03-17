@@ -51,7 +51,7 @@
             // Duracion_label
             // 
             Duracion_label.AutoSize = true;
-            Duracion_label.Location = new Point(222, 105);
+            Duracion_label.Location = new Point(219, 90);
             Duracion_label.Name = "Duracion_label";
             Duracion_label.Size = new Size(13, 15);
             Duracion_label.TabIndex = 1;
@@ -79,13 +79,12 @@
             // 
             // label1
             // 
-            label1.AutoSize = true;
             label1.BackColor = Color.Red;
-            label1.Location = new Point(197, 90);
+            label1.Location = new Point(198, 90);
             label1.Name = "label1";
-            label1.Size = new Size(64, 15);
+            label1.Size = new Size(15, 15);
             label1.TabIndex = 5;
-            label1.Text = "                   ";
+            label1.Text = "                  ";
             // 
             // Num_dest
             // 
