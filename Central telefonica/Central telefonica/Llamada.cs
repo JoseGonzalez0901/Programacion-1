@@ -10,7 +10,6 @@ namespace Central_telefonica
 
     internal class Llamada:ILlamada
     {
-        public string[] zona_horaria = { "+1", "+54" };
 
         private static Stopwatch crono = Stopwatch.StartNew();
 
@@ -19,9 +18,15 @@ namespace Central_telefonica
         public string num_destino { get ; set ; }
         public double duracion { get; set; }
         
-        public bool local=false;
+        
         public double costo = 0.0f;
-
+       public  enum Estado
+        {
+            Local=0,
+            Fuera_de_rango=1,
+            Internacional=2
+        }
+        
         public Llamada(string origen,string destino) 
         {
             this.num_origen=origen;
@@ -29,14 +34,25 @@ namespace Central_telefonica
             crono.Stop();
         }
         public Llamada() { crono.Stop(); }
-        public bool isLocal(string num)
+        public Estado isLocal(string num)
         {
+            Llamada_provincial llamada_Provincial = new Llamada_provincial();
+            
+           
             if(num.Contains("+1"))
             {
 
-                return local=true;
+                return Estado.Local;
             }
-            return local=false;
+            foreach(var item in llamada_Provincial.franja)
+            {
+                if(num.Contains(item))
+                {
+                    return Estado.Internacional;
+                }
+            }
+            MessageBox.Show("Llamada fuera de rango");
+            return Estado.Fuera_de_rango;
 
         }
         public void startcall()
