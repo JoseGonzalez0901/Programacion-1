@@ -17,9 +17,10 @@ namespace Central_telefonica
         public  bool incall { get; set; }=false;
         public string num_origen { get ; set; }
         public string num_destino { get ; set ; }
-        public string duracion { get; set; }
+        public double duracion { get; set; }
         
         public bool local=false;
+        public double precio = 0.0f;
 
         public Llamada(string origen,string destino) 
         {
@@ -48,12 +49,11 @@ namespace Central_telefonica
         }
         public void Stopcall()
         {
-            if (get_status_call())
-            {
+        
                 
                 crono.Restart();
                 crono.Stop();
-            }
+            
         }
         public bool get_status_call()
         {
@@ -80,15 +80,15 @@ namespace Central_telefonica
              
                 while (true)
                 {
-                    duracion = crono.Elapsed.ToString();
-                    if (!get_status_call())
-                        break;
+                    duracion = crono.Elapsed.TotalSeconds;
+                    if (!get_status_call()) { break; }
+                       
 
                    
 
                     Thread.Sleep(100);
                 }
-                duracion = crono.Elapsed.ToString();
+               
 
             });
 
@@ -97,15 +97,13 @@ namespace Central_telefonica
             
 
         }
-        public string get_duracion_call()
+        public double get_duracion_call()
         {
             return duracion;
         }
         public void llamda_stop(Llamada llamada)
         {
-            Centralita centralita = new Centralita();
-            
-            centralita.registrarLlamada(llamada);
+
             
             //llamada.Calcular_precio(duracion,"");
         }

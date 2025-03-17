@@ -6,7 +6,9 @@ namespace Central_telefonica
     {
         Llamada Call_in = new Llamada();
         Llamada_provincial llamada_provincial = new Llamada_provincial();
+        Centralita centralita = new Centralita();
 
+        
         public Form1()
         {
             InitializeComponent();
@@ -31,7 +33,7 @@ namespace Central_telefonica
                 label1.BackColor = Color.Green;
                 llamada_provincial = new Llamada_provincial(Num_origin.Text, Num_dest.Text);
                 llamada_provincial.llamada(Num_dest.Text, Num_dest.Text, "");
-                
+
                 llamada_provincial.startcall();
                 llamada_provincial.set_status(true);
 
@@ -42,10 +44,11 @@ namespace Central_telefonica
 
         private void Stop_Click(object sender, EventArgs e)
         {
-            
-            llamada_provincial.Stopcall();
-            llamada_provincial.set_status(false);
             Call_in.set_status(false);
+            llamada_provincial.set_status(false);
+            llamada_provincial.Stopcall();
+
+
 
             if (Call_in.local)
             {
@@ -53,8 +56,9 @@ namespace Central_telefonica
             }
             else
             {
-
-                llamada_provincial.llamda_stop(llamada_provincial);
+                Llamada newllam = new Llamada_provincial();
+                newllam = llamada_provincial;
+                centralita.registrarLlamada(newllam);
 
             }
 
@@ -62,21 +66,27 @@ namespace Central_telefonica
 
         }
 
+
         private void Call_duration_Tick(object sender, EventArgs e)
         {
-            if(Call_in.get_status_call())
+            if (Call_in.get_status_call())
             {
-                if(Call_in.local)
+                if (Call_in.local)
                 {
 
                 }
                 else
                 {
-                    Duracion_label.Text=llamada_provincial.get_duracion_call().ToString();
+                    Duracion_label.Text = llamada_provincial.get_duracion_call().ToString();
                 }
-                
+
 
             }
+        }
+
+        private void Show_register_Click(object sender, EventArgs e)
+        {
+            centralita.mostrarRegistro();
         }
     }
 }

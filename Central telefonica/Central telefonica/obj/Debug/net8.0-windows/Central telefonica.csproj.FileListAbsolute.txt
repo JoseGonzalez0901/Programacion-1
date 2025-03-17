@@ -31,3 +31,4 @@ C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central 
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.pdb
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central telefonica.genruntimeconfig.cache
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\ref\Central telefonica.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net8.0-windows\Central_telefonica.Call_Register_form.resources

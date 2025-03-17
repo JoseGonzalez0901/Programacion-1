@@ -20,5 +20,15 @@ namespace Central_telefonica
             Llamada_register.Add(llamada);
         }
 
+        public void mostrarRegistro()
+        {
+            Call_Register_form call_Register_Form = new Call_Register_form();
+            foreach(Llamada llamada in Llamada_register)
+            {
+                call_Register_Form.InitGrig(llamada);
+            }
+            call_Register_Form.Show();
+        }
+
     }
 }

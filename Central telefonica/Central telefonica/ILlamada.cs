@@ -10,7 +10,7 @@ namespace Central_telefonica
     {
         public string num_origen { get; set; }
         public string num_destino { get; set; }
-        public string duracion { get; set; }
+        public double duracion { get; set; }
         public void llamada(string Num_origen,string NuM_dest,string franja);
         public double Calcular_precio(double duracion, string franja);
 
@@ -18,7 +18,7 @@ namespace Central_telefonica
 
         public string get_numero_origen();
 
-        public string get_duracion_call();
+        public double get_duracion_call();
 
 
     }

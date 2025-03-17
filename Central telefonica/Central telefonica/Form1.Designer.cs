@@ -38,6 +38,7 @@
             label2 = new Label();
             label3 = new Label();
             Call_duration = new System.Windows.Forms.Timer(components);
+            Show_register = new Button();
             SuspendLayout();
             // 
             // Num_origin
@@ -50,7 +51,7 @@
             // Duracion_label
             // 
             Duracion_label.AutoSize = true;
-            Duracion_label.Location = new Point(128, 131);
+            Duracion_label.Location = new Point(222, 105);
             Duracion_label.Name = "Duracion_label";
             Duracion_label.Size = new Size(13, 15);
             Duracion_label.TabIndex = 1;
@@ -113,13 +114,25 @@
             // 
             // Call_duration
             // 
+            Call_duration.Enabled = true;
             Call_duration.Tick += Call_duration_Tick;
+            // 
+            // Show_register
+            // 
+            Show_register.Location = new Point(12, 115);
+            Show_register.Name = "Show_register";
+            Show_register.Size = new Size(75, 23);
+            Show_register.TabIndex = 9;
+            Show_register.Text = "Register";
+            Show_register.UseVisualStyleBackColor = true;
+            Show_register.Click += Show_register_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(332, 180);
+            Controls.Add(Show_register);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(Num_dest);
@@ -145,5 +158,6 @@
         private Label label2;
         private Label label3;
         private System.Windows.Forms.Timer Call_duration;
+        private Button Show_register;
     }
 }
