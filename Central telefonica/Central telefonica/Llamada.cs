@@ -95,7 +95,7 @@ namespace Central_telefonica
              
                 while (true)
                 {
-                    duracion = Math.Round (crono.Elapsed.TotalSeconds,2);
+                    duracion = Math.Round (crono.Elapsed.TotalMinutes,2);
                     if (!get_status_call()) 
                     {
                         crono.Restart();

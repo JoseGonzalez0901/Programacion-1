@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Central telefonica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1da5ce4870548f6b7a58f7b8b4f0dd6bdc89bc03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d2ddc4a6838fab92ee703cc8932c60bd1c9b4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Central telefonica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Central telefonica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

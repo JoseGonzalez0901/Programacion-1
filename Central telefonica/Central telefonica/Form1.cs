@@ -70,16 +70,18 @@ namespace Central_telefonica
 
 
                 Call_in.set_status(false);
-                llamada_provincial.set_status(false);
+                
 
             if (Call_in.isLocal(Num_dest.Text)==Llamada.Estado.Local)
                 {
+                    llamada_Local.set_status(false);
                     double precio = llamada_Local.Calcular_precio();
                     llamada_Local.costo= Math.Round( precio,2);
                     centralita.registrarLlamada(llamada_Local);
                 }
             else if(Call_in.isLocal(Num_dest.Text)==Llamada.Estado.Internacional)
                 {
+                    llamada_provincial.set_status(false);
                     double precio = llamada_provincial.Calcular_precio(Num_dest.Text);
                     llamada_provincial.costo= Math.Round(precio, 2);
                     centralita.registrarLlamada(llamada_provincial);
