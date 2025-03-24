@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
@@ -8,18 +10,23 @@ using System.Threading.Tasks;
 namespace Central_telefonica
 {
 
-    internal class Llamada:ILlamada
+    public class Llamada:ILlamada
     {
 
         private static Stopwatch crono = Stopwatch.StartNew();
-
-        public  bool incall { get; set; }=false;
+        [Key]  // Definir clave primaria
+        public int Id { get; set; }
+        [NotMapped]
+        private  bool incall { get; set; }=false;
+        [Column("Numero de origen")]
         public string num_origen { get ; set; }
+        public double costo { get; set; }
+        [Column("Numero de destino")]
         public string num_destino { get ; set ; }
         public double duracion { get; set; }
         
         
-        public double costo = 0.0f;
+        
        public  enum Estado
         {
             Local=0,

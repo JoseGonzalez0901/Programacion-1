@@ -1,0 +1,8 @@
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central_telefonica.Call_Register_form.resources
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central_telefonica.Form1.resources
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central telefonica.csproj.GenerateResource.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central telefonica.AssemblyInfoInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central telefonica.AssemblyInfo.cs
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central telefonica.csproj.CoreCompileInputs.cache
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Central telefonica\Central telefonica\obj\Debug\net5.0-windows7.0\Central telefonica.sourcelink.json

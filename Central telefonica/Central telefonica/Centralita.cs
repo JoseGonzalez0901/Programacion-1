@@ -21,12 +21,24 @@ namespace Central_telefonica
             }
             return acum;
         }
+        void Insert_BD(Llamada llamada)
+        {
+            using (var context = new AppDbContext())
+            {
+                var productoManager = new DatabaseManager<Llamada>(context);
 
+                // Agregar un producto
+                var nuevoProducto = llamada;
+                productoManager.Add(nuevoProducto);
+                Console.WriteLine("Producto agregado.");
+            }
+        }
         public void registrarLlamada(Llamada llamada)
         {
             Llamada_register.Add(llamada);
             cont = Llamada_register.Count;
             acum += llamada.costo;
+            Insert_BD(llamada);
         }
 
         public void mostrarRegistro()
