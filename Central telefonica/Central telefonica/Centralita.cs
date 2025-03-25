@@ -33,16 +33,34 @@ namespace Central_telefonica
                 Console.WriteLine("Producto agregado.");
             }
         }
+        void Read_BD()
+        {
+            using (var context = new AppDbContext())
+            {
+                var callManager=new DatabaseManager<Llamada>(context);
+                var return_BD = callManager.GetAll();
+                foreach(var item in return_BD)
+                {
+                    Llamada llamada = (Llamada)item;
+                    Llamada_register.Add(llamada);
+                    cont = Llamada_register.Count;
+                    acum += llamada.costo;
+                }
+            }
+        }
+
         public void registrarLlamada(Llamada llamada)
         {
-            Llamada_register.Add(llamada);
-            cont = Llamada_register.Count;
-            acum += llamada.costo;
+
             Insert_BD(llamada);
         }
 
         public void mostrarRegistro()
         {
+            acum = 0;
+            cont = 0;
+            Llamada_register.Clear();
+            Read_BD();
 
             Call_Register_form call_Register_Form = new Call_Register_form(acum.ToString(),cont.ToString());
             foreach(Llamada llamada in Llamada_register)
