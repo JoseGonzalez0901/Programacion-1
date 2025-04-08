@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2025-04-08T14:21:43.8300491Z"
+    }
+  },
+  "parameters": {
+    "ProyectoTiendaVirtual.resourceGroupName": {
+      "Name": "ProyectoTiendaVirtual.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Centralita"
+    },
+    "ProyectoTiendaVirtual.resourceName": {
+      "Name": "ProyectoTiendaVirtual.resourceName",
+      "Type": null,
+      "Value": "ProyectoTiendaVirtual"
+    },
+    "ProyectoTiendaVirtual.resourceGroupLocation": {
+      "Name": "ProyectoTiendaVirtual.resourceGroupLocation",
+      "Type": null,
+      "Value": "northeurope"
+    },
+    "ProyectoTiendaVirtual.subscriptionId": {
+      "Name": "ProyectoTiendaVirtual.subscriptionId",
+      "Type": "subscription",
+      "Value": "16e68a7d-4f18-4f2d-b5b5-7c2d2dda440c"
+    }
+  }
+}

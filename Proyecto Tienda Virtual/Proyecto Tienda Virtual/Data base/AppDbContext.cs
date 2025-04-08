@@ -14,8 +14,9 @@ namespace Proyecto_Tienda_Virtual.Data_base
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=tcp:241215.database.windows.net,1433;Database=Central telefonica;Authentication=Active Directory Default;"
-);
+            //optionsBuilder.UseSqlServer("Server=tcp:241215.database.windows.net,1433;Database=Central telefonica;Authentication=Active Directory Default;"
+            optionsBuilder.UseSqlServer("Server=tcp:tienda-virtual.database.windows.net,1433;Initial Catalog=Tienda Virtual;Persist Security Info=False;User ID=Administrador;Password=SantoDomingo0901!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+);             
         }
     }
 }

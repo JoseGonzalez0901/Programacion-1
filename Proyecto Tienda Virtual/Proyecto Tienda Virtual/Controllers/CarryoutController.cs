@@ -40,10 +40,9 @@ namespace Proyecto_Tienda_Virtual.Controllers
         public IActionResult Index()
         {
             TempData["items"] = Get_count_list();
-            if(Get_count_list()>0)
-            {
+
                 TempData["view_button"] = "view";
-            }
+            
             return View(CarryoutViewModel);
         }
         [HttpPost]
