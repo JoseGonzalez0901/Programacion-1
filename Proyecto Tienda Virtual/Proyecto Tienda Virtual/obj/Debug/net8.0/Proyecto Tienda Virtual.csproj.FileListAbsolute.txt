@@ -519,3 +519,4 @@ C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Debug\net8.0\Proyecto Tienda Virtual.pdb
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Debug\net8.0\Proyecto Tienda Virtual.genruntimeconfig.cache
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Debug\net8.0\ref\Proyecto Tienda Virtual.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

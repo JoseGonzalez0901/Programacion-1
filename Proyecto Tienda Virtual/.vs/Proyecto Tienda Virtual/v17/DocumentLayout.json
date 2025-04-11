@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\controllers\\carryoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\controllers\\carryoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\views\\template\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\views\\template\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\current cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\current cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\data base\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\data base\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\controllers\\templatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\controllers\\templatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\carryoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\carryoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\carryout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\carryout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\data_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\data_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\models\\data_imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\models\\data_imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|c:\\users\\3898272\\onedrive - jabil\\desktop\\programacion 1\\programacion-1\\proyecto tienda virtual\\proyecto tienda virtual\\proyecto tienda virtual.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97516CC3-8CBF-4339-84ED-08719BC04E12}|Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj|solutionrelative:proyecto tienda virtual\\proyecto tienda virtual.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,68 +74,162 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CarryoutController.cs",
               "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Controllers\\CarryoutController.cs",
               "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Controllers\\CarryoutController.cs",
               "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Controllers\\CarryoutController.cs",
               "RelativeToolTip": "Proyecto Tienda Virtual\\Controllers\\CarryoutController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAAMAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAEwCYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T19:20:46.151Z",
+              "WhenOpened": "2025-04-11T14:20:11.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAABYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T19:08:36.727Z",
+              "DocumentIndex": 1,
+              "Title": "Current Cart.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Current Cart.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\Current Cart.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Current Cart.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\Current Cart.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:16:47.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Views\\Template\\index.cshtml",
-              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Views\\Template\\index.cshtml",
-              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Views\\Template\\index.cshtml",
-              "RelativeToolTip": "Proyecto Tienda Virtual\\Views\\Template\\index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABtAQAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T19:07:59.187Z",
+              "Title": "TemplateController.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Controllers\\TemplateController.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Controllers\\TemplateController.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Controllers\\TemplateController.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Controllers\\TemplateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:35:36.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Data base\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Data base\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Data base\\AppDbContext.cs",
-              "RelativeToolTip": "Proyecto Tienda Virtual\\Data base\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAADIAAAA",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:05:49.296Z",
+              "WhenOpened": "2025-04-11T14:16:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data_image.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Data_image.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\Data_image.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Data_image.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\Data_image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:16:25.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarryoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\CarryoutViewModel.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\CarryoutViewModel.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\CarryoutViewModel.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\CarryoutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:16:20.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\appsettings.json",
-              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\appsettings.json",
-              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\appsettings.json",
-              "RelativeToolTip": "Proyecto Tienda Virtual\\appsettings.json",
+              "Title": "Carryout.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Carryout.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\Carryout.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Carryout.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\Carryout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:16:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\JwtHelper.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\JwtHelper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:13:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Program.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Program.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:08:01.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data_ImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Data_ImageViewModel.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Models\\Data_ImageViewModel.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Models\\Data_ImageViewModel.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Models\\Data_ImageViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T15:45:56.167Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:16:26.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T13:43:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:35:26.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proyecto Tienda Virtual",
+              "DocumentMoniker": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj",
+              "RelativeDocumentMoniker": "Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj",
+              "ToolTip": "C:\\Users\\3898272\\OneDrive - Jabil\\Desktop\\Programacion 1\\Programacion-1\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj",
+              "RelativeToolTip": "Proyecto Tienda Virtual\\Proyecto Tienda Virtual.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T18:48:55.354Z"
             }
           ]
         }

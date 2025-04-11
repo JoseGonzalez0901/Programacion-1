@@ -12,6 +12,19 @@ namespace Proyecto_Tienda_Virtual.Controllers
         // GET: TemplateController
         public ActionResult Index(int page = 0)
         {
+            if (!Request.Cookies.ContainsKey("UserToken"))
+            {
+                var token = JwtHelper.GenerateAnonymousToken();
+                Response.Cookies.Append("UserToken", token, new CookieOptions
+                {
+                    HttpOnly = true,
+                    Secure = true,
+                    SameSite = SameSiteMode.Lax,
+                    Expires = DateTime.UtcNow.AddDays(7)
+                });
+            }
+
+
             int itemsPerPage = 6;
             
             Data_base_services service = new Data_base_services();
@@ -25,17 +38,27 @@ namespace Proyecto_Tienda_Virtual.Controllers
             images.CurrentPage = page;
             images.TotalPages = totalPages;
             CarryoutController car_count = new CarryoutController(null);
-            TempData["items"] = car_count.Get_count_list();
+            JwtHelper jwtHelper = new JwtHelper();
+
+            var key = jwtHelper.GetUserIdFromToken(Request);
+            TempData["items"] = car_count.Get_count_list(key);
+
+           
             return View(images);
         }
         public IActionResult Add_car(int ItemID)
         {
-            Data_base_services services = new Data_base_services();
-            Carryout Car=new Carryout(services.Get_data(ItemID));
-            CarryoutController carryoutController = new CarryoutController(Car);
+           
+            /*
             CarryoutController car_count = new CarryoutController(null);
-            TempData["items"] = car_count.Get_count_list();
-            TempData["MostrarToast"] = true;
+
+            TempData["items"] = car_count.Get_count_list();*/
+            return RedirectToAction("AgregarProducto", "Carryout", new {item=ItemID});
+           // var userId = GetUserIdFromToken(Request);
+
+
+
+            
             return View("Index",images);
         }
 

@@ -7,6 +7,7 @@ C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Humanizer.dll
+C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\3898272\OneDrive - Jabil\Desktop\Programacion 1\Programacion-1\Proyecto Tienda Virtual\Proyecto Tienda Virtual\obj\Release\net8.0\PubTmp\Out\Microsoft.Build.dll

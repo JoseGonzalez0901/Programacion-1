@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto Tienda Virtual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8343f6e9b0fb292f3e3b03fb131646d070f749d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d86cfe4a4bd03494699c019e30161fe8af3fda0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto Tienda Virtual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto Tienda Virtual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
